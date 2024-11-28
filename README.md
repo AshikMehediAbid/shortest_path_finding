@@ -18,26 +18,26 @@ samples, guidance on mobile development, and a full API reference.
 ### Minimum Path Finding App
 This Flutter application demonstrates a grid-based visualization of finding the shortest path between two points using a simple breadth-first search (BFS) algorithm. Users can interact with the grid to set a start point, end point, and obstacles, and then calculate the minimum path.
 
-### Features
-- Dynamic Grid Visualization:
+# Features
+### Dynamic Grid Visualization:
 
--- A grid of customizable rows and columns.
--- Each cell is represented by a CustomBox widget.
-- Interactive Design:
+- A grid of customizable rows and columns.
+ Each cell is represented by a CustomBox widget.
+### Interactive Design:
 
--- Tap to set the "From" point (starting position).
--- Tap to set the "To" point (destination).
--- Mark cells as obstacles or reset them by tapping.
-- Pathfinding Algorithm:
+- Tap to set the "From" point (starting position).
+ Tap to set the "To" point (destination).
+ Mark cells as obstacles or reset them by tapping.
+### Pathfinding Algorithm:
 
--- Implements BFS to calculate the shortest path while avoiding obstacles.
--- Displays the traversed path dynamically on the grid.
-- Color Coding:
+- Implements BFS to calculate the shortest path while avoiding obstacles.
+ Displays the traversed path dynamically on the grid.
+### Color Coding:
 
--- Start Point: Blue.
--- Destination: Yellow.
--- Obstacles: Red.
--- Path: Light green.
+- Start Point: Blue.
+- Destination: Yellow.
+- Obstacles: Red.
+- Path: Light green.
 
 #### Sample Image
 
