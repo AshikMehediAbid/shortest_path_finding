@@ -32,6 +32,7 @@ This Flutter application demonstrates a grid-based visualization of finding the 
 
 - Implements BFS to calculate the shortest path while avoiding obstacles.
  Displays the traversed path dynamically on the grid.
+
 ### Color Coding:
 
 - Start Point: Blue.
@@ -39,6 +40,6 @@ This Flutter application demonstrates a grid-based visualization of finding the 
 - Obstacles: Red.
 - Path: Light green.
 
-#### Sample Image:
+### Sample Image:
 
 <img src="https://github.com/user-attachments/assets/978b9c42-4351-4d32-bf5e-fbdb3fa7d667" width="300"/>
